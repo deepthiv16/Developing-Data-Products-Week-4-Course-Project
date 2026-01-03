@@ -1,0 +1,12 @@
+name: MPG_Analysis_Shiny_Application
+title: MPG_Analysis_Shiny_Application
+username: deepthiv-16
+account: deepthiv-16
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16368235
+bundleId: 11394386
+url: https://deepthiv-16.shinyapps.io/MPG_Analysis_Shiny_Application/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
